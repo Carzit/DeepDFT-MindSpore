@@ -12,8 +12,6 @@ import os
 import io
 import math
 import mindspore as ms
-#import torch
-#import torch.utils.data
 import lz4.frame
 import numpy as np
 import ase
